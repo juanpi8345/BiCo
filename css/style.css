@@ -984,8 +984,19 @@ footer .copyright a{
     }
 
     #banner{
-        height: auto;
+        height: 85vh;
     }
+
+    #banner .seccion{
+        padding-top: 0;
+        padding-bottom: 0;
+        
+    }
+
+    #banner nav{
+        margin-top: 0;
+    }
+
 
     #banner h3{
         width: auto;
@@ -1093,6 +1104,11 @@ footer .copyright a{
     } 
 }
   
+    
+
+
+
+
     
 
 
