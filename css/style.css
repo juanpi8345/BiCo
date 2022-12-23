@@ -987,10 +987,8 @@ footer .copyright a{
         height: 85vh;
     }
 
-    #banner .seccion{
-        padding-top: 0;
-        padding-bottom: 0;
-        
+    #banner.seccion{
+        padding-top: 0;   
     }
 
     #banner nav{
